@@ -1,4 +1,4 @@
-namespace zad7.Models.DTOs;
+﻿namespace zad8.Models.DTOs;
 
 public class ClientDTO
 {
