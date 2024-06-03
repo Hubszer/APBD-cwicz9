@@ -107,7 +107,7 @@ public class TripController : ControllerBase
             IdClientNavigation = newClient,
             IdTripNavigation = trip,
             RegisteredAt = DateTime.Now,
-            PaymentDate = paymentDate
+            /*PaymentDate = paymentDate*/
         };
 
         _context.ClientTrips.Add(clientTrip);
